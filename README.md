@@ -1,5 +1,5 @@
 # translations
-Language Files and Translations for the project https://github.com/frdl/webfan
+Language Files and Translations
 
 
 # French
