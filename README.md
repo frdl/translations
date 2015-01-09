@@ -3,4 +3,4 @@ Language Files and Translations
 
 
 # French
-@shortymc
+https://github.com/shortymc
