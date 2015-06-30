@@ -45,7 +45,7 @@
                         'de_DE' : 'Der Desktop wird derzeit &uuml;berarbeitet! Fehler m&ouml;glich.',
                         'en_GB'	: 'The desktop is currently in maintenance mode! Possbible errors.'
 					 	
-					            },
+					 },
                       
                      
    
@@ -62,6 +62,19 @@
                      
                      
     
+                     'Add' : {
+                     	'en_GB'	: 'Add',
+                        'de_DE' : 'Hinzuf&uuml;gen'
+                     },                           
+                         
+                         
+     
+                     'Wallpaper' : {
+                     	'en_GB'	: 'Wallpaper',
+                        'de_DE' : 'Hintergrundbild'
+                     },                           
+                         
+                                                
                      'Search' : {
                      	'en_GB'	: 'Search',
                         'de_DE' : 'Suchen'
@@ -81,7 +94,24 @@
                         'de_DE' : 'Installieren'
                      },                           
                      
-                                         
+   
+                     'Uninstall' : {
+                     	'en_GB'	: 'Uninstall',
+                        'de_DE' : 'Deinstallieren'
+                     },                           
+                        
+                        
+                     'My Apps' : {
+                     	'en_GB'	: 'My Apps',
+                        'de_DE' : 'Meine Apps'
+                     },                           
+   
+                     'Settings' : {
+                     	'en_GB'	: 'Settings',
+                        'de_DE' : 'Einstellungen'
+                     },                           
+                                                 
+                                                                                   
                      'Monday' : {
                        	'en_GB'	: 'Monday',
                         'de_DE' : 'Montag'
@@ -110,5 +140,5 @@
                        	'en_GB'	: 'Sunday',
                         'de_DE' : 'Sonntag'
                      }  
-                     
-                }
+	
+}
