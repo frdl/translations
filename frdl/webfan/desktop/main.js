@@ -2,48 +2,58 @@
 
                      'Modus' : {
                      	'en_GB'	: 'Mode',
-                        'de_DE' : 'Modus'
+                        'de_DE' : 'Modus',
+                        'fr_FR' : 'Mode'
+                                                
                      },
                      
   
                      'Help' : {
                      	'en_GB'	: 'Help',
-                        'de_DE' : 'Hilfe'
+                        'de_DE' : 'Hilfe',
+                        'fr_FR' : 'Aide'
                      },
                       
   
                      'Documentation' : {
                      	'en_GB'	: 'Documentation',
-                        'de_DE' : 'Dokumentation'
+                        'de_DE' : 'Dokumentation',
+                        'fr_FR' : 'Documentation'
                      },
                                          
                                         
                      'Language' : {
                      	'en_GB'	: 'Language',
-                        'de_DE' : 'Sprache'
+                        'de_DE' : 'Sprache',
+                        'fr_FR' : 'Langue'
                      },
                       'About' : {
                      	'en_GB'	: 'About',
-                        'de_DE' : '&Uuml;ber'
+                        'de_DE' : '&Uuml;ber',
+                        'fr_FR' : 'A propos'
                      },
                       'imprint' : {
                      	'en_GB'	: 'imprint',
-                        'de_DE' : 'Impressum'
+                        'de_DE' : 'Impressum',
+                        'fr_FR' : 'Copyrights'
                      }, 
                                         
                      'System Control' : {
                      	'en_GB'	: 'System Control',
-                        'de_DE' : 'Systemsteuerung'
+                        'de_DE' : 'Systemsteuerung',
+                        'fr_FR' : 'Contrôle du système'
                      },  
                         
                     'title::id:show_messenger' : {
                         'de_DE' : 'Nachrichtendienst',
-                        'en_GB'	: 'Messenger'
+                        'en_GB'	: 'Messenger',
+                        'fr_FR' : 'Messagerie'
                      },
                      
                      'class:maintenance-hint-webfan-desktop' : {
                         'de_DE' : 'Der Desktop wird derzeit &uuml;berarbeitet! Fehler m&ouml;glich.',
-                        'en_GB'	: 'The desktop is currently in maintenance mode! Possbible errors.'
+                        'en_GB'	: 'The desktop is currently in maintenance mode! Possbible errors.',
+                        'fr_FR' : 'Le bureau est actuellement en mode maintenance, des erreurs sont possibles.'
 					 	
 					 },
                       
@@ -51,32 +61,37 @@
    
                      'class:data-langstr-No-new-notifications' : {
                      	'en_GB'	: 'No new notifications',
-                        'de_DE' : 'Keine neuen Benachrichtigungen'
+                        'de_DE' : 'Keine neuen Benachrichtigungen',
+                        'fr_FR' : 'Aucune notification'
                      },                  
                     
     
                      'Close' : {
                      	'en_GB'	: 'Close',
-                        'de_DE' : 'Schliessen'
+                        'de_DE' : 'Schliessen',
+                        'fr_FR' : 'Fermer'
                      },                           
                      
                      
     
                      'Add' : {
                      	'en_GB'	: 'Add',
-                        'de_DE' : 'Hinzuf&uuml;gen'
+                        'de_DE' : 'Hinzuf&uuml;gen',
+                        'fr_FR' : 'Ajouter'
                      },                           
                          
                          
      
                      'Wallpaper' : {
                      	'en_GB'	: 'Wallpaper',
-                        'de_DE' : 'Hintergrundbild'
+                        'de_DE' : 'Hintergrundbild',
+                        'fr_FR' : 'Fond d'écran
                      },                           
                          
                                                 
                      'Search' : {
                      	'en_GB'	: 'Search',
+                        'fr_FR' : 'Rechercher',
                         'de_DE' : 'Suchen'
                      },                           
                      
@@ -84,61 +99,73 @@
     
                      'Developers' : {
                      	'en_GB'	: 'Developers',
-                        'de_DE' : 'Entwickler'
+                        'de_DE' : 'Entwickler',
+                        'fr_FR' : 'Developpeurs'
                      },    
                      
                                                              
     
                      'Install' : {
                      	'en_GB'	: 'Install',
-                        'de_DE' : 'Installieren'
+                        'de_DE' : 'Installieren',
+                        'fr_FR' : 'Installer'
                      },                           
                      
    
                      'Uninstall' : {
                      	'en_GB'	: 'Uninstall',
-                        'de_DE' : 'Deinstallieren'
+                        'de_DE' : 'Deinstallieren',
+                        'fr_FR' : 'Desinstaller'
                      },                           
                         
                         
                      'My Apps' : {
                      	'en_GB'	: 'My Apps',
-                        'de_DE' : 'Meine Apps'
+                        'de_DE' : 'Meine Apps',
+                        'fr_FR' : 'Mes Applications'
                      },                           
    
                      'Settings' : {
                      	'en_GB'	: 'Settings',
-                        'de_DE' : 'Einstellungen'
+                        'de_DE' : 'Einstellungen',
+                        'fr_FR' : 'Paramètres'
                      },                           
                                                  
                                                                                    
                      'Monday' : {
                        	'en_GB'	: 'Monday',
-                        'de_DE' : 'Montag'
+                        'de_DE' : 'Montag',
+                        'fr_FR' : 'Lundi'
                      },                   
                      'Tuesday' : {
                        	'en_GB'	: 'Tuesday',
-                        'de_DE' : 'Dienstag'
+                        'de_DE' : 'Dienstag',
+                        'fr_FR' : 'Mardi'
                      },                   
                      'Wednesday' : {
                        	'en_GB'	: 'Wednesday',
-                        'de_DE' : 'Mittwoch'
+                        'de_DE' : 'Mittwoch',
+                        'fr_FR' : 'Mercredi'
                      },                   
                      'Thursday' : {
                        	'en_GB'	: 'Thursday',
-                        'de_DE' : 'Donnerstag'
+                        'de_DE' : 'Donnerstag',
+                        'fr_FR' : 'Jeudi'
                      },                   
                      'Friday' : {
                        	'en_GB'	: 'Friday',
-                        'de_DE' : 'Freitag'
+                        'de_DE' : 'Freitag',
+                        'fr_FR' : 'Vendredi'
                      },                   
                      'Saturday' : {
                        	'en_GB'	: 'Saturday',
-                        'de_DE' : 'Samstag'
+                        'de_DE' : 'Samstag',
+                        'fr_FR' : 'Samedi'
                      },                   
                      'Sunday' : {
                        	'en_GB'	: 'Sunday',
-                        'de_DE' : 'Sonntag'
+                        'de_DE' : 'Sonntag',
+                        'fr_FR' : 'Dimanche'
                      }  
 	
 }
