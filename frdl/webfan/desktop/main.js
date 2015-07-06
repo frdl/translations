@@ -1,10 +1,17 @@
 {
 
+
+
+                     'New' : {
+                     	'en_GB'	: 'New',
+                        'de_DE' : 'Neu',
+                        'fr_FR' : 'Nouveau'
+                     },
+
                      'Modus' : {
                      	'en_GB'	: 'Mode',
                         'de_DE' : 'Modus',
-                        'fr_FR' : 'Mode'
-                                                
+                         'fr_FR' : 'Mode'
                      },
                      
   
@@ -37,34 +44,7 @@
                         'de_DE' : 'Impressum',
                         'fr_FR' : 'Copyrights'
                      }, 
-                                        
-                     'System Control' : {
-                     	'en_GB'	: 'System Control',
-                        'de_DE' : 'Systemsteuerung',
-                        'fr_FR' : 'Contrôle du système'
-                     },  
-                        
-                    'title::id:show_messenger' : {
-                        'de_DE' : 'Nachrichtendienst',
-                        'en_GB'	: 'Messenger',
-                        'fr_FR' : 'Messagerie'
-                     },
-                     
-                     'class:maintenance-hint-webfan-desktop' : {
-                        'de_DE' : 'Der Desktop wird derzeit &uuml;berarbeitet! Fehler m&ouml;glich.',
-                        'en_GB'	: 'The desktop is currently in maintenance mode! Possbible errors.',
-                        'fr_FR' : 'Le bureau est actuellement en mode maintenance, des erreurs sont possibles.'
-					 	
-					 },
-                      
-                     
-   
-                     'class:data-langstr-No-new-notifications' : {
-                     	'en_GB'	: 'No new notifications',
-                        'de_DE' : 'Keine neuen Benachrichtigungen',
-                        'fr_FR' : 'Aucune notification'
-                     },                  
-                    
+         
     
                      'Close' : {
                      	'en_GB'	: 'Close',
@@ -85,14 +65,14 @@
                      'Wallpaper' : {
                      	'en_GB'	: 'Wallpaper',
                         'de_DE' : 'Hintergrundbild',
-                        'fr_FR' : 'Fond d'écran
+                        'fr_FR' : 'Fond d\'écran'
                      },                           
                          
                                                 
                      'Search' : {
                      	'en_GB'	: 'Search',
-                        'fr_FR' : 'Rechercher',
-                        'de_DE' : 'Suchen'
+                        'de_DE' : 'Suchen',
+                        'fr_FR' : 'recherche'
                      },                           
                      
                    
@@ -166,6 +146,43 @@
                        	'en_GB'	: 'Sunday',
                         'de_DE' : 'Sonntag',
                         'fr_FR' : 'Dimanche'
-                     }  
-	
+                     },
+                     
+                     
+ 
+                     'Change Theme' : {
+                     	'en_GB'	: 'Change Theme',
+                        'de_DE' : 'Theme wechseln',
+                        'fr_FR' : 'Change Theme'
+                     },  
+                               
+                                        
+                     'System Control' : {
+                     	'en_GB'	: 'System Control',
+                        'de_DE' : 'Systemsteuerung',
+                        'fr_FR' : 'Contrôle du système'
+                     },  
+                        
+                    'title::id:show_messenger' : {
+                        'de_DE' : 'Nachrichtendienst',
+                        'en_GB'	: 'Messenger',
+                        'fr_FR' : 'Messagerie'
+                     },
+                     
+                     'class:maintenance-hint-webfan-desktop' : {
+                        'de_DE' : 'Der Desktop wird derzeit &uuml;berarbeitet!<br />Fehler m&ouml;glich.',
+                        'en_GB'	: 'The desktop is currently in maintenance mode!<br />Possbible errors.',
+                        'fr_FR' : 'Le bureau est actuellement en mode maintenance,<br />des erreurs sont possibles.'
+					 	
+					 },
+                      
+                     
+   
+                     'class:data-langstr-No-new-notifications' : {
+                     	'en_GB'	: 'No new notifications',
+                        'de_DE' : 'Keine neuen Benachrichtigungen',
+                        'fr_FR' : 'Aucune notification'
+                     }                 
+                                          
+                     
 }
