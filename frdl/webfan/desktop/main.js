@@ -182,7 +182,15 @@
                      	'en_GB'	: 'No new notifications',
                         'de_DE' : 'Keine neuen Benachrichtigungen',
                         'fr_FR' : 'Aucune notification'
-                     }                 
+                     },
+                     
+                     
+                       'Available' : {
+                       	'en_GB'	: 'Available',
+                        'de_DE' : 'Verf&uuml;gbare',
+                        'fr_FR' : 'Disponible'
+                     }                                    
+                            
                                           
                      
 }
