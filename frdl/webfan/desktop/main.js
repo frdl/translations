@@ -206,7 +206,19 @@
                        	'en_GB'	: 'No profile selected. You may select an Desktop User or create one...',
                         'de_DE' : 'Kein Profil ausgew&auml;hlt. Sie k&ouml;nnen einen Benutzer w&auml;hlen oder erstellen...',
                         'fr_FR' : 'No profile selected. You may select an Desktop User or create one...'
-                     }                                              
+                     },                         
+                                          
+                     'Soundsettings' : {
+                     	'en_GB'	: 'Soundsettings',
+                        'de_DE' : 'Soundeinstellungen',
+                        'fr_FR' : 'Soundsettings'
+                     },
+                     
+                     'Play sound if you get a new message' : {
+                     	'en_GB'	: 'Play sound if you get a new message',
+                        'de_DE' : 'Sound abspielen bei einer neuen Nachricht',
+                        'fr_FR' : 'Play sound if you get a new message'
+                     }                                                
                             
                                           
                      
