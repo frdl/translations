@@ -189,7 +189,14 @@
                        	'en_GB'	: 'Available',
                         'de_DE' : 'Verf&uuml;gbare',
                         'fr_FR' : 'Disponible'
-                     }                                    
+                     } ,
+                     
+                     
+                       'Default settings' : {
+                       	'en_GB'	: 'Default settings',
+                        'de_DE' : 'Standardeinstellungen',
+                        'fr_FR' : 'Les paramètres par défaut'
+                     }                                          
                             
                                           
                      
