@@ -196,7 +196,17 @@
                        	'en_GB'	: 'Default settings',
                         'de_DE' : 'Standardeinstellungen',
                         'fr_FR' : 'Les paramètres par défaut'
-                     }                                          
+                     },
+                     
+                     
+                     /**
+                      *  @ToDo   french
+                      * */
+                     'No profile selected. You may select an Desktop User or create one...': {
+                       	'en_GB'	: 'No profile selected. You may select an Desktop User or create one...',
+                        'de_DE' : 'Kein Profil ausgew&auml;hlt. Sie k&ouml;nnen einen Benutzer w&auml;hlen oder erstellen...',
+                        'fr_FR' : 'No profile selected. You may select an Desktop User or create one...'
+                     }                                              
                             
                                           
                      
