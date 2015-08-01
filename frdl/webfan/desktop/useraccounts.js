@@ -16,6 +16,16 @@
                      	'en_GB'	: 'Change user',
                         'de_DE' : 'Benutzer wechseln',
                         'fr_FR' : 'Changer d\'utilisateur'
+                     },
+                     
+                     /**
+                      *  @ToDo   french
+                      * */                     
+                     
+                      'You can manage different user profiles saved in your browser here.' : {
+                     	'en_GB'	: 'You can manage different user profiles saved in your browser here.',
+                        'de_DE' : 'Sie k&ouml;nnen hier verschiedene in Ihrem Browser gespeicherte Benutzerprofile verwalten.',
+                        'fr_FR' : 'You can manage different user profiles saved in your browser here.'
                      }  
                      
 		    }) ; 
