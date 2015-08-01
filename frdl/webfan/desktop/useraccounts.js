@@ -15,6 +15,12 @@
                      	'en_GB'	: 'Username',
                         'de_DE' : 'Benutzername',
                         'fr_FR' : 'Nom d\'utilisateur'
+                     }     ,
+                     
+                      'Change user' : {
+                     	'en_GB'	: 'Change user',
+                        'de_DE' : 'Benutzer wechseln',
+                        'fr_FR' : 'Changer d\'utilisateur'
                      }     
                      
                      
