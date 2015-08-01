@@ -218,7 +218,13 @@
                      	'en_GB'	: 'Play sound if you get a new message',
                         'de_DE' : 'Sound abspielen bei einer neuen Nachricht',
                         'fr_FR' : 'Play sound if you get a new message'
-                     }                                                
+                     }      ,
+                     
+                     'class:wd-lang-user' : {
+                     	'en_GB'	: 'User',
+                        'de_DE' : 'Benutzer',
+                        'fr_FR' : 'Utilisateur'
+                     }                                               
                             
                                           
                      
