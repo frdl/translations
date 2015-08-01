@@ -1,5 +1,17 @@
 {
-
+                  
+                  
+                     'Hello' : {
+                     	'en_GB'	: 'Hello',
+                        'de_DE' : 'Hallo',
+                        'fr_FR' : 'Bonjour'
+                     } ,             	
+                	
+                     'class:data-langstr-of' : {
+                     	'en_GB'	: 'of',
+                        'de_DE' : 'von',
+                        'fr_FR' : 'de'
+                     },
 
 
                      'New' : {
@@ -84,12 +96,13 @@
                      },    
                      
                                                              
-    
-                     'Install' : {
+        
+                    
+                    'Installing' : {
                      	'en_GB'	: 'Install',
                         'de_DE' : 'Installieren',
                         'fr_FR' : 'Installer'
-                     },                           
+                     },              
                      
    
                      'Uninstall' : {
@@ -170,9 +183,9 @@
                      },
                      
                      'class:maintenance-hint-webfan-desktop' : {
-                        'de_DE' : 'Der Desktop wird derzeit &uuml;berarbeitet!<br />Fehler m&ouml;glich.',
-                        'en_GB'	: 'The desktop is currently in maintenance mode!<br />Possbible errors.',
-                        'fr_FR' : 'Le bureau est actuellement en mode maintenance,<br />des erreurs sont possibles.'
+                        'de_DE' : 'Der Desktop wird derzeit &uuml;berarbeitet! Fehler m&ouml;glich.',
+                        'en_GB'	: 'The desktop is currently in maintenance mode! Possbible errors.',
+                        'fr_FR' : 'Le bureau est actuellement en mode maintenance, des erreurs sont possibles.'
 					 	
 					 },
                       
@@ -182,14 +195,14 @@
                      	'en_GB'	: 'No new notifications',
                         'de_DE' : 'Keine neuen Benachrichtigungen',
                         'fr_FR' : 'Aucune notification'
-                     },
+                     } ,
                      
                      
                        'Available' : {
                        	'en_GB'	: 'Available',
                         'de_DE' : 'Verf&uuml;gbare',
                         'fr_FR' : 'Disponible'
-                     } ,
+                     },
                      
                      
                        'Default settings' : {
@@ -198,10 +211,10 @@
                         'fr_FR' : 'Les paramètres par défaut'
                      },
                      
-                     
-                     /**
+                      /**
                       *  @ToDo   french
-                      * */
+                      * */                    
+                     
                      'No profile selected. You may select an Desktop User or create one...': {
                        	'en_GB'	: 'No profile selected. You may select an Desktop User or create one...',
                         'de_DE' : 'Kein Profil ausgew&auml;hlt. Sie k&ouml;nnen einen Benutzer w&auml;hlen oder erstellen...',
@@ -218,14 +231,12 @@
                      	'en_GB'	: 'Play sound if you get a new message',
                         'de_DE' : 'Sound abspielen bei einer neuen Nachricht',
                         'fr_FR' : 'Play sound if you get a new message'
-                     }      ,
+                     }   ,
                      
                      'class:wd-lang-user' : {
                      	'en_GB'	: 'User',
                         'de_DE' : 'Benutzer',
                         'fr_FR' : 'Utilisateur'
-                     }                                               
-                            
-                                          
-                     
+                     }   
+                                      
 }
