@@ -237,6 +237,18 @@
                      	'en_GB'	: 'User',
                         'de_DE' : 'Benutzer',
                         'fr_FR' : 'Utilisateur'
+                     }   ,                         
+                                          
+                     'Password' : {
+                     	'en_GB'	: 'Password',
+                        'de_DE' : 'Passwort',
+                        'fr_FR' : 'Mot de passe'
+                     },                         
+                                          
+                     'Confirm' : {
+                     	'en_GB'	: 'Confirm',
+                        'de_DE' : 'Best&auml;tigen',
+                        'fr_FR' : 'Confirmer'
                      }   
                                       
 }
