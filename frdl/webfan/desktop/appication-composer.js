@@ -89,7 +89,15 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'You are logged in as Admin.',
                         'de_DE' : 'Sie sind als Admin eingeloggt.',
                          'fr_FR' : 'You are logged in as Admin.'
-                     }         
+                     }      ,
+                     
+                     
+                     
+                     'Please loggin!' : {
+                     	'en_GB'	: 'Please loggin!',
+                        'de_DE' : 'Bitte melden sie sich an!',
+                         'fr_FR' : 'Please loggin!'
+                     }     
                      
                      
                      
