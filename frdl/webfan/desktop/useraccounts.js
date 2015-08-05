@@ -1,4 +1,4 @@
-       $($.WebfanDesktop.o.doms.locale).locale('loadLangs', {
+{
                      
                      
                       'Create a new user' : {
@@ -65,4 +65,4 @@
                         'fr_FR' : 'Delete profile'
                      }          
                      
-		    }) ; 
+}
