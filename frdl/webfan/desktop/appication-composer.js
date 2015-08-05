@@ -97,7 +97,15 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'Please loggin!',
                         'de_DE' : 'Bitte melden sie sich an!',
                          'fr_FR' : 'Please loggin!'
-                     }     
+                     },
+                     
+                     
+                     
+                     'NOT INSTALLED' : {
+                     	'en_GB'	: 'NOT INSTALLED',
+                        'de_DE' : 'NICHT INSTALLIERT',
+                         'fr_FR' : 'NOT INSTALLED'
+                     } 
                      
                      
                      
