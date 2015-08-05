@@ -75,7 +75,22 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'Success',
                         'de_DE' : 'Erfolg',
                          'fr_FR' : 'Success'
-                     }   
+                     }   ,
+                     
+                     'A software is ready for installation. Click here to install it...'  : {
+                       	'en_GB'	: 'A software is ready for installation. Click here to install it...',
+                        'de_DE' : 'Eine Software kann installiert werden. Klicke hier um die Software zu installieren...',
+                        'fr_FR' : 'A software is ready for installation. Click here to install it...'
+                     } ,
+                     
+                     
+                     
+                     'You are logged in as Admin.' : {
+                     	'en_GB'	: 'You are logged in as Admin.',
+                        'de_DE' : 'Sie sind als Admin eingeloggt.',
+                         'fr_FR' : 'You are logged in as Admin.'
+                     }         
+                     
                      
                      
      }
