@@ -1,3 +1,6 @@
+/*
+http://api.webfan.de/api-d/4/js-api/library.js?plugin=wd-desktop
+*/
 {
                   
                   
