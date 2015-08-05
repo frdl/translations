@@ -57,6 +57,12 @@
                      	'en_GB'	: 'Read info...',
                         'de_DE' : 'Info lesen...',
                         'fr_FR' : 'Read info...'
-                     }      
+                     } ,
+                     
+                      'Delete profile' : {
+                     	'en_GB'	: 'Delete profile',
+                        'de_DE' : 'Profil l&ouml;schen',
+                        'fr_FR' : 'Delete profile'
+                     }          
                      
 		    }) ; 
