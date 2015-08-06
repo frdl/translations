@@ -95,17 +95,33 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      
                      'Please loggin!' : {
                      	'en_GB'	: 'Please loggin!',
-                        'de_DE' : 'Bitte melden sie sich an!',
-                         'fr_FR' : 'Please loggin!'
+                      'de_DE' : 'Bitte melden sie sich an!',
+                      'fr_FR' : 'Please loggin!'
                      },
                      
                      
                      
                      'NOT INSTALLED' : {
                      	'en_GB'	: 'NOT INSTALLED',
-                        'de_DE' : 'NICHT INSTALLIERT',
-                         'fr_FR' : 'NOT INSTALLED'
-                     } 
+                      'de_DE' : 'NICHT INSTALLIERT',
+                      'fr_FR' : 'NOT INSTALLED'
+                     },
+                     
+                     
+                     
+                     'Change password' : {
+                     	'en_GB'	: 'Change password',
+                      'de_DE' : 'Passwort &auml;ndern',
+                      'fr_FR' : 'Change password'
+                     },
+                     
+                     
+                     
+                     'confirm' : {
+                     	'en_GB'	: 'confirm',
+                      'de_DE' : 'best&auml;tigen',
+                      'fr_FR' : 'confirm'
+                     }
                      
                      
                      
