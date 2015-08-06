@@ -252,6 +252,12 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=wd-desktop
                      	'en_GB'	: 'Confirm',
                         'de_DE' : 'Best&auml;tigen',
                         'fr_FR' : 'Confirmer'
-                     }   
+                     },                         
+                                          
+                     'Loading, please wait' : {
+                     	'en_GB'	: 'Loading, please wait',
+                        'de_DE' : 'Lade, bitte warten Sie',
+                        'fr_FR' : 'Loading, please wait'
+                     }    
                                       
 }
