@@ -121,7 +121,15 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'confirm',
                       'de_DE' : 'best&auml;tigen',
                       'fr_FR' : 'confirm'
-                     }
+                     },
+                     
+                     
+                     
+                     'Database' : {
+                     	'en_GB'	: 'Database',
+                        'de_DE' : 'Datenbank',
+                         'fr_FR' : 'Database'
+                     } 
                      
                      
                      
