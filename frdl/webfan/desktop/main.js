@@ -258,6 +258,18 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=wd-desktop
                      	'en_GB'	: 'Loading, please wait',
                         'de_DE' : 'Lade, bitte warten Sie',
                         'fr_FR' : 'Loading, please wait'
-                     }    
+                     }    ,
+                     
+                     'Postbox' : {
+                     	'en_GB'	: 'Postbox',
+                        'de_DE' : 'Postfach',
+                        'fr_FR' : 'Postbox'
+                     },
+                     
+                     'All Messages' : {
+                     	'en_GB'	: 'All Messages',
+                        'de_DE' : 'Alle Nachrichten',
+                        'fr_FR' : 'All Messages'
+                     }        
                                       
 }
