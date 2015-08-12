@@ -129,7 +129,15 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'Database',
                         'de_DE' : 'Datenbank',
                          'fr_FR' : 'Database'
-                     } 
+                     } ,
+                     
+                     
+                     
+                     'Tables' : {
+                     	'en_GB'	: 'Tables',
+                        'de_DE' : 'Tabellen',
+                         'fr_FR' : 'Tables'
+                     }  
                      
                      
                      
