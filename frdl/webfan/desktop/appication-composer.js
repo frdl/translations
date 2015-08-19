@@ -137,6 +137,14 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'Tables',
                         'de_DE' : 'Tabellen',
                          'fr_FR' : 'Tables'
+                     }  ,
+                     
+                     
+                     
+                     'Change these settings wisely' : {
+                     	'en_GB'	: 'Change these settings wisely',
+                        'de_DE' : '&Auml;ndern sie diese Einstellungen  mit Bedacht',
+                         'fr_FR' : 'Change these settings wisely'
                      }  
                      
                      
