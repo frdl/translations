@@ -152,7 +152,13 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'Enable the Adminpassword, allow login with it.',
                         'de_DE' : 'Login mit diesem Adminpasswort erlauben',
                          'fr_FR' : 'Enable the Adminpassword, allow login with it.'
-                     }  
+                     }  ,
+                    
+                     'Create' : {
+                     	'en_GB'	: 'Create',
+                        'de_DE' : 'Erstelle',
+                         'fr_FR' : 'Create'
+                     }
                      
                      
                      
