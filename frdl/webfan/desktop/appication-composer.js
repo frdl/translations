@@ -145,6 +145,13 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'Change these settings wisely',
                         'de_DE' : '&Auml;ndern sie diese Einstellungen  mit Bedacht',
                          'fr_FR' : 'Change these settings wisely'
+                     }  ,
+                     
+                    
+                     'Enable the Adminpassword, allow login with it.' : {
+                     	'en_GB'	: 'Enable the Adminpassword, allow login with it.',
+                        'de_DE' : 'Login mit diesem Adminpasswort erlauben',
+                         'fr_FR' : 'Enable the Adminpassword, allow login with it.'
                      }  
                      
                      
