@@ -158,7 +158,13 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'Create',
                         'de_DE' : 'Erstelle',
                          'fr_FR' : 'Create'
-                     }
+                     } ,
+                    
+                     'What to do next?' : {
+                     	'en_GB'	: 'What to do next?',
+                        'de_DE' : 'Was k&ouml;nnten Sie als n&auml;chstes tun?',
+                         'fr_FR' : 'What to do next?'
+                     }   
                      
                      
                      
