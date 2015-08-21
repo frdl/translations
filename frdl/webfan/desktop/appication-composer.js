@@ -214,6 +214,12 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'Every Day Checklist',
                         'de_DE' : 'T&auml;gliche Checklist',
                         'fr_FR' : 'Every Day Checklist'
+                     },
+                     		    
+                     'No connection to database' : {
+                     	'en_GB'	: 'No connection to database',
+                        'de_DE' : 'Keine Datenbank Verbindung',
+                        'fr_FR' : 'No connection to database'
                      }
                          
                      
