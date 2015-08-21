@@ -202,7 +202,20 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                         'de_DE' : 'Nach erfolgreicher Installation werden Sie zu den n&auml;chsten Schritten weitergeleitet...',
                          'fr_FR' : 'If it installed correctly you will be redirected to do the next steps...'
                      }          
+                     ,
                      
+                     
+                     'Check your Postbox' : {
+                     	'en_GB'	: 'Check your Postbox',
+                        'de_DE' : '&Uuml;berpr&uuml;fen Sie Ihr Postfach',
+                        'fr_FR' : 'Check your Postbox'
+                     } ,		    
+                     'Every Day Checklist' : {
+                     	'en_GB'	: 'Every Day Checklist',
+                        'de_DE' : 'T&auml;gliche Checklist',
+                        'fr_FR' : 'Every Day Checklist'
+                     }
+                         
                      
                      
      }
