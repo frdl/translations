@@ -185,10 +185,10 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      }  ,  
                      
                      
-                     'Click the &quot;Test&quot; Button below...' : {
-                     	'en_GB'	: 'Click the &quot;Test&quot; Button below...',
-                        'de_DE' : 'Klicken Sie den &quot;Test&quot; Button unterhalb...',
-                         'fr_FR' : 'Click the &quot;Test&quot; Button below...'
+                     'Click the Test Button below...' : {
+                     	'en_GB'	: 'Click the Test Button below...',
+                        'de_DE' : 'Klicken Sie den Test Button unterhalb...',
+                         'fr_FR' : 'Click the Test Button below...'
                      } ,
                     
                      'Continue after the test completed successfully, click' : {
