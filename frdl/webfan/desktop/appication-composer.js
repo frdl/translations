@@ -164,7 +164,44 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'What to do next?',
                         'de_DE' : 'Was k&ouml;nnten Sie als n&auml;chstes tun?',
                          'fr_FR' : 'What to do next?'
-                     }   
+                     }     ,
+                    
+                     'Download fresh Installer...' : {
+                     	'en_GB'	: 'Download fresh Installer...',
+                        'de_DE' : 'Aktuellsten Installer herunterladen...',
+                         'fr_FR' : 'Download fresh Installer...'
+                     }      ,
+                    
+                     'Delete installer after installation' : {
+                     	'en_GB'	: 'Delete installer after installation',
+                        'de_DE' : 'Installer nach der Installation l&ouml;schen',
+                         'fr_FR' : 'Delete installer after installation'
+                     }      ,
+                    
+                     'recommended' : {
+                     	'en_GB'	: 'recommended',
+                        'de_DE' : 'empfohlen',
+                         'fr_FR' : 'recommended'
+                     }  ,  
+                     
+                     
+                     'Click the &quot;Test&quot; Button below...' : {
+                     	'en_GB'	: 'Click the &quot;Test&quot; Button below...',
+                        'de_DE' : 'Klicken Sie den &quot;Test&quot; Button unterhalb...',
+                         'fr_FR' : 'Click the &quot;Test&quot; Button below...'
+                     } ,
+                    
+                     'Continue after the test completed successfully, click' : {
+                     	'en_GB'	: 'Continue after the test completed successfully, click',
+                        'de_DE' : 'Setzen Sie die Installation nach erfolgreichem test fort, klicken Sie',
+                         'fr_FR' : 'Continue after the test completed successfully, click'
+                     }  ,
+                    
+                     'If it installed correctly you will be redirected to do the next steps...' : {
+                     	'en_GB'	: 'If it installed correctly you will be redirected to do the next steps...',
+                        'de_DE' : 'Nach erfolgreicher Installation werden Sie zu den n&auml;chsten Schritten weitergeleitet...',
+                         'fr_FR' : 'If it installed correctly you will be redirected to do the next steps...'
+                     }          
                      
                      
                      
