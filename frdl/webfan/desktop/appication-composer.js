@@ -220,6 +220,12 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'No connection to database',
                         'de_DE' : 'Keine Datenbank Verbindung',
                         'fr_FR' : 'No connection to database'
+                     },
+                     		    
+                     'More' : {
+                     	'en_GB'	: 'More',
+                        'de_DE' : 'Mehr',
+                        'fr_FR' : 'More'
                      }
                          
                      
