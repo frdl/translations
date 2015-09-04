@@ -66,7 +66,7 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=useraccounts
                      	'en_GB'	: 'Delete profile',
                         'de_DE' : 'Profil l&ouml;schen',
                         'fr_FR' : 'Delete profile'
-                     }        ,
+                     } ,
                      
                      
                       'Userdata' : {
@@ -76,9 +76,15 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=useraccounts
                      }     ,
                      
                       'Privacy' : {
-                     	'en_GB'	: 'Userdata',
+                     	'en_GB'	: 'Privacy',
                         'de_DE' : 'Privatsph&auml;re',
                         'fr_FR' : 'Privacy'
-                     }       
+                     },
+                     
+                      'Contacts' : {
+                     	'en_GB'	: 'Contacts',
+                        'de_DE' : 'Kontakte',
+                        'fr_FR' : 'Contacts'
+                     }    
                      
 }
