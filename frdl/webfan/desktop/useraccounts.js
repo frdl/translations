@@ -66,6 +66,19 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=useraccounts
                      	'en_GB'	: 'Delete profile',
                         'de_DE' : 'Profil l&ouml;schen',
                         'fr_FR' : 'Delete profile'
-                     }          
+                     }        ,
+                     
+                     
+                      'Userdata' : {
+                     	'en_GB'	: 'Userdata',
+                        'de_DE' : 'Benutzerdaten',
+                        'fr_FR' : 'Userdata'
+                     }     ,
+                     
+                      'Privacy' : {
+                     	'en_GB'	: 'Userdata',
+                        'de_DE' : 'Privatsph&auml;re',
+                        'fr_FR' : 'Privacy'
+                     }       
                      
 }
