@@ -85,6 +85,12 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=useraccounts
                      	'en_GB'	: 'Contacts',
                         'de_DE' : 'Kontakte',
                         'fr_FR' : 'Contacts'
-                     }    
+                     }    ,
+                     
+                      'Customers' : {
+                     	'en_GB'	: 'Customers',
+                        'de_DE' : 'Kunden',
+                        'fr_FR' : 'Customers'
+                     }   
                      
 }
