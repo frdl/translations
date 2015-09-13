@@ -226,6 +226,12 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'More',
                         'de_DE' : 'Mehr',
                         'fr_FR' : 'More'
+                     },
+                     		    
+                     'Miscellaneous' : {
+                     	'en_GB'	: 'Miscellaneous',
+                        'de_DE' : 'Diverses',
+                        'fr_FR' : 'Miscellaneous'
                      }
                          
                      
