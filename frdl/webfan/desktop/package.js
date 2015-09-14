@@ -17,6 +17,12 @@
                      	'en_GB'	: 'local',
                         'de_DE' : 'lokal',
                         'fr_FR' : 'local'
+                     }   ,
+                    
+                     'fetch' : {
+                     	'en_GB'	: 'fetch',
+                        'de_DE' : 'einlesen',
+                        'fr_FR' : 'fetch'
                      }   
                      
 }
