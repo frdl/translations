@@ -232,7 +232,14 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                      	'en_GB'	: 'Miscellaneous',
                         'de_DE' : 'Diverses',
                         'fr_FR' : 'Miscellaneous'
-                     }
+                     },
+                     
+                     
+                     'change' : {
+                     	'en_GB'	: 'change',
+                        'de_DE' : '&auml;ndern',
+                        'fr_FR' : 'change'
+                     }   
                          
                      
                      
