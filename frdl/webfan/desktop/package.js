@@ -41,6 +41,18 @@
                      	'en_GB'	: 'fetch again',
                         'de_DE' : 'erneut einlesen',
                         'fr_FR' : 'fetch again'
+                     },
+                    
+                     'Install' : {
+                     	'en_GB'	: 'Install',
+                        'de_DE' : 'Installieren',
+                        'fr_FR' : 'Install'
+                     },
+                    
+                     'Download' : {
+                     	'en_GB'	: 'Download',
+                        'de_DE' : 'Herunterladen',
+                        'fr_FR' : 'Download'
                      }
                      
 }
