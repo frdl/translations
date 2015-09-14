@@ -53,6 +53,18 @@
                      	'en_GB'	: 'Download',
                         'de_DE' : 'Herunterladen',
                         'fr_FR' : 'Download'
+                     },
+                    
+                     'select' : {
+                     	'en_GB'	: 'select',
+                        'de_DE' : 'ausw&auml;hlen',
+                        'fr_FR' : 'select'
+                     },
+                    
+                     'Requirements' : {
+                     	'en_GB'	: 'Requirements',
+                        'de_DE' : 'Systemanforderungen',
+                        'fr_FR' : 'Requirements'
                      }
                      
 }
