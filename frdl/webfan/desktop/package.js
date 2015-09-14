@@ -35,6 +35,12 @@
                      	'en_GB'	: 'No version selected',
                         'de_DE' : 'Keine Version ausgew&auml;hlt',
                         'fr_FR' : 'No version selected'
-                     } 
+                     } ,
+                    
+                     'fetch again' : {
+                     	'en_GB'	: 'fetch again',
+                        'de_DE' : 'erneut einlesen',
+                        'fr_FR' : 'fetch again'
+                     }
                      
 }
