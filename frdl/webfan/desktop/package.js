@@ -11,6 +11,12 @@
                      	'en_GB'	: 'Versions',
                         'de_DE' : 'Versionen',
                         'fr_FR' : 'Versions'
+                     }    ,
+                    
+                     'local' : {
+                     	'en_GB'	: 'local',
+                        'de_DE' : 'lokal',
+                        'fr_FR' : 'local'
                      }   
                      
 }
