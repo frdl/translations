@@ -23,6 +23,12 @@
                      	'en_GB'	: 'fetch',
                         'de_DE' : 'einlesen',
                         'fr_FR' : 'fetch'
+                     }   ,
+                    
+                     'found' : {
+                     	'en_GB'	: 'found',
+                        'de_DE' : 'gefunden',
+                        'fr_FR' : 'found'
                      }   
                      
 }
