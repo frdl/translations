@@ -29,6 +29,12 @@
                      	'en_GB'	: 'found',
                         'de_DE' : 'gefunden',
                         'fr_FR' : 'found'
-                     }   
+                     }   ,
+                    
+                     'No version selected' : {
+                     	'en_GB'	: 'No version selected',
+                        'de_DE' : 'Keine Version ausgew&auml;hlt',
+                        'fr_FR' : 'No version selected'
+                     } 
                      
 }
