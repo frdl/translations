@@ -270,6 +270,12 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=wd-desktop
                      	'en_GB'	: 'All Messages',
                         'de_DE' : 'Alle Nachrichten',
                         'fr_FR' : 'All Messages'
-                     }        
+                     }  ,
+                     
+                      'Filemanager' : {
+                     	'en_GB'	: 'Filemanager',
+                        'de_DE' : 'Dateimanager',
+                        'fr_FR' : 'Filemanager'
+                     }         
                                       
 }
