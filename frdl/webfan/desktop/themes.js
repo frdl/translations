@@ -17,5 +17,11 @@
                      	'en_GB'	: 'To open a theme file click the icon or drag and drop the file into the theme list with your mouse',
                         'de_DE' : 'Um eine Theme Datei zu &ouml;ffnen klicken Sie das Symbol oder ziehen Sie Datei mit der Maus in die Theme Liste',
                         'fr_FR' : 'To open a theme file click the icon or drag and drop the file into the theme list with your mouse'
+                     },
+                     
+                     'Current Theme' : {
+                     	'en_GB'	: 'Current Theme',
+                        'de_DE' : 'Aktuelles Theme',
+                        'fr_FR' : 'Current Theme'
                      }
 }
