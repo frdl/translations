@@ -23,5 +23,11 @@
                      	'en_GB'	: 'Current Theme',
                         'de_DE' : 'Aktuelles Theme',
                         'fr_FR' : 'Current Theme'
+                     },
+                     
+                     'contact me' : {
+                     	'en_GB'	: 'contact me',
+                        'de_DE' : 'kontaktieren Sie mich',
+                        'fr_FR' : 'contact me'
                      }
 }
