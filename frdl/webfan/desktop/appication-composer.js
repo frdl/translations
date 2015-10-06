@@ -178,12 +178,7 @@ http://api.webfan.de/api-d/4/js-api/library.js?plugin=application-composer
                          'fr_FR' : 'Delete installer after installation'
                      }      ,
                     
-                     'recommended' : {
-                     	'en_GB'	: 'recommended',
-                        'de_DE' : 'empfohlen',
-                         'fr_FR' : 'recommended'
-                     }  ,  
-                     
+
                      
                      'Click the Test Button below...' : {
                      	'en_GB'	: 'Click the Test Button below...',
