@@ -3,7 +3,7 @@ Translation with µ.Flow
 https://github.com/frdl/-Flow
 
 Look at https://github.com/frdl/-Flow/blob/master/api-d/4/js-api/library.js/core/frdl.js
-
+```` 
 var LanguageOptionSelectors = [];
 _.getLanguageOptionSelectors = function(){
    return LanguageOptionSelectors; 	
@@ -46,7 +46,7 @@ _.lang = function(langStrings){
 	 });
   });	
 };
-
+```` 
 
 
 Example:
