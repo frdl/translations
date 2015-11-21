@@ -50,10 +50,12 @@ _.lang = function(langStrings){
 
 
 Example:
-<ul id="selectLanguageDropdown3" class="localizationTool"  style="display:inline-block;"></ul>
+```` 
+    <ul id="selectLanguageDropdown3" class="localizationTool"  style="display:inline-block;"></ul>
 
-frdl.addLanguageOptionSelector('selectLanguageDropdown3');
-
+   frdl.addLanguageOptionSelector('selectLanguageDropdown3');
+   
+```` 
 
  
  
