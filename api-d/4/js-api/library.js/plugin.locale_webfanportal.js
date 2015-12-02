@@ -147,12 +147,7 @@
                         'fr_FR' : 'Developers'
                      }  ,
                     
-                    
-                    'Suche' : {
-                     	'en_GB'	: 'Search',
-                        'de_DE' : 'Suche',
-                        'fr_FR' : 'Recherche'
-                     }  ,
+          
                      
                      'und' : {
                      	'en_GB'	: 'and',
