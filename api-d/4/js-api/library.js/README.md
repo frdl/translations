@@ -1,7 +1,13 @@
 Translation with µ.Flow
 
+Library:
 https://github.com/frdl/-Flow
 
+Example Component using this:
+https://github.com/frdl/-Flow/tree/master/components/locale
+
+
+Further:
 Look at https://github.com/frdl/-Flow/blob/master/api-d/4/js-api/library.js/core/frdl.js
 ```` 
 var LanguageOptionSelectors = [];
@@ -49,13 +55,6 @@ _.lang = function(langStrings){
 ```` 
 
 
-Example:
-```` 
-    <ul id="selectLanguageDropdown3" class="localizationTool"  style="display:inline-block;"></ul>
-
-   frdl.addLanguageOptionSelector('selectLanguageDropdown3');
-   
-```` 
 
  
  
