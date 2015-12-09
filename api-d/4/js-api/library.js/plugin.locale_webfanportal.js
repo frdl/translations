@@ -34,9 +34,9 @@
   
                      
                       'Kleinanzeigen' : {
-                     	'en_GB'	: 'Class. Ads',
+                     	'en_GB'	: 'Classifieds',
                         'de_DE' : 'Kleinanzeigen',
-                        'fr_FR' : 'Class. Ads'
+                        'fr_FR' : 'Annonce'
                      } ,             	
   
                      
