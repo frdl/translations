@@ -1,28 +1,24 @@
-
-(function(){
-	'use strict';
-	
-	var languageStrings = {
+frdl.lang({
                   
                   
                      'Your Account' : {
                      	'en_GB'	: 'Your Account',
                         'de_DE' : 'Dein Account',
-                        'fr_FR' : 'Your Account'
+                        'fr_FR' : 'Compte'
                      } ,             	
   
                      
                       'News' : {
                      	'en_GB'	: 'News',
                         'de_DE' : 'Nachrichten',
-                        'fr_FR' : 'News'
+                        'fr_FR' : 'Nouvelle'
                      }   ,             	
   
                      
                       'Nachrichten' : {
                      	'en_GB'	: 'News',
                         'de_DE' : 'Nachrichten',
-                        'fr_FR' : 'News'
+                        'fr_FR' : 'Nouvelle'
                      }    ,             	
   
                      
@@ -34,7 +30,7 @@
   
                      
                       'Kleinanzeigen' : {
-                     	'en_GB'	: 'Classifieds',
+                     	'en_GB'	: 'Classifieds Ads',
                         'de_DE' : 'Kleinanzeigen',
                         'fr_FR' : 'Annonce'
                      } ,             	
@@ -77,7 +73,7 @@
                       'Deine' : {
                      	'en_GB'	: 'Your',
                         'de_DE' : 'Deine',
-                        'fr_FR' : 'Your'
+                        'fr_FR' : 'Ton'
                      }    , 
                      
                      'Neue' : {
@@ -90,32 +86,32 @@
                       'Benutzerdaten' : {
                      	'en_GB'	: 'Userdata',
                         'de_DE' : 'Benutzerdaten',
-                        'fr_FR' : 'Userdata'
+                        'fr_FR' : 'Utilisateur'
                      }  ,             	
   
                      
                       'privaten Nachrichten' : {
                      	'en_GB'	: 'private messages',
                         'de_DE' : 'privaten Nachrichten',
-                        'fr_FR' : 'private messages'
+                        'fr_FR' : 'information personnel'
                      } ,             	
                        
                       'private Nachrichten' : {
                      	'en_GB'	: 'private messages',
                         'de_DE' : 'private Nachrichten',
-                        'fr_FR' : 'private messages'
+                        'fr_FR' : 'information personnel'
                      } ,             	
                        
                       'Datenschutz' : {
                      	'en_GB'	: 'pivacy',
                         'de_DE' : 'Datenschutz',
-                        'fr_FR' : 'pivacy'
+                        'fr_FR' : 'sphère privée'
                      } ,              	
                        
                       'pivacy policy' : {
                      	'en_GB'	: 'pivacy policy',
                         'de_DE' : 'Datenschutzerkl&auml;rung',
-                        'fr_FR' : 'pivacy policy'
+                        'fr_FR' : 'Données'
                      }   ,           	
                        
                       
@@ -131,38 +127,74 @@
                       'Kunden' : {
                      	'en_GB'	: 'Customers',
                         'de_DE' : 'Kunden',
-                        'fr_FR' : 'Customers'
+                        'fr_FR' : 'Client'
                      } ,
                      
                      
                       'Developers' : {
                      	'en_GB'	: 'Developers',
                         'de_DE' : 'Entwickler',
-                        'fr_FR' : 'Developers'
+                        'fr_FR' : 'Développeurs'
                      }  ,
                      
                      'Entwickler' : {
                      	'en_GB'	: 'Developers',
                         'de_DE' : 'Entwickler',
-                        'fr_FR' : 'Developers'
+                        'fr_FR' : 'Développeur'
                      }  ,
                     
-          
+                    
+                    'Suche' : {
+                     	'en_GB'	: 'Search',
+                        'de_DE' : 'Suche',
+                        'fr_FR' : 'Recherche'
+                     }  ,
                      
                      'und' : {
                      	'en_GB'	: 'and',
                         'de_DE' : 'und',
                         'fr_FR' : 'et'
-                     }        
+                     }   ,
+                     
+                     'Programmierung' : {
+                     	'en_GB'	: 'Programming',
+                        'de_DE' : 'Programmierung',
+                        'fr_FR' : 'Programmation'
+                     },
+                     
+                     'Produkte' : {
+                     	'en_GB'	: 'Products',
+                        'de_DE' : 'Produkte',
+                        'fr_FR' : 'Produit'
+                     } ,
+                     
+                     'If you like to open a new window, press shift while clicking the link' : {
+                     	'en_GB'	: 'If you like to open a new window, press SHIFT while clicking the link',
+                        'de_DE' : 'Wenn Sie ein neues Fenster öffnen möchten, drücken Sie SHIFT während Sie den Link klicken',
+                        'fr_FR' : 'If you like to open a new window, press SHIFT while clicking the link'
+                     }  ,
+                     
+                     'Vorwahlen' : {
+                     	'en_GB'	: 'Prefix',
+                        'de_DE' : 'Vorwahlen',
+                        'fr_FR' : 'Indicatif'
+                     }     ,
+                     
+                     'Artikel' : {
+                     	'en_GB'	: 'Articles',
+                        'de_DE' : 'Artikel',
+                        'fr_FR' : 'Article'
+                     }   ,
+                     
+                     'Mitgliedersuche' : {
+                     	'en_GB'	: 'Search Members',
+                        'de_DE' : 'Mitgliedersuche',
+                        'fr_FR' : 'Recherche de Membre'
+                     }      
+                     
+                     
                                       
-     };
-     
-     
- 
-   frdl.lang(languageStrings);
-
-	
-}());
+});
 
 
 
