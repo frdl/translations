@@ -52,6 +52,12 @@ frdl.lang({
             'en_GB'	: 'in 3 simple steps',
             'de_DE' : 'in 3 einfachen Schritten',
             'fr_FR' : 'en 3 étapes simples'
+           },
+           
+           'Bild' : {
+            'en_GB'	: 'Picture',
+            'de_DE' : 'Bild',
+            'fr_FR' : 'Image'
            }
            
            
