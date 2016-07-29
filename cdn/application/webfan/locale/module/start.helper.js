@@ -1,5 +1,4 @@
 
-
 exports = module.exports = {
                   
                   
@@ -13,10 +12,10 @@ exports = module.exports = {
                      
                          
                   
-                     'About...' : {
-                     	'en_GB'	: 'About...',
-                        'de_DE' : 'Über...',
-                        'fr_FR' : 'à propos...'
+                     'About' : {
+                     	'en_GB'	: 'About',
+                        'de_DE' : 'Über',
+                        'fr_FR' : 'à propos'
                      } ,
                      
                      
@@ -37,7 +36,21 @@ exports = module.exports = {
                      	'en_GB'	: 'Language',
                         'de_DE' : 'Sprache',
                         'fr_FR' : 'Language'
-                     } 
+                     },
+                     
+                     
+                     'schliessen' : {
+                     	'en_GB'	: 'close',
+                        'de_DE' : 'schliessen',
+                        'fr_FR' : 'fermer'
+                     },
+                     
+                     
+                     'Werbung' : {
+                     	'en_GB'	: 'Advertisment',
+                        'de_DE' : 'Werbung',
+                        'fr_FR' : 'Publicité'
+                     }
                      
                      
                      
