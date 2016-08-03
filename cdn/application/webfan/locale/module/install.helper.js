@@ -19,7 +19,7 @@ exports = module.exports = {
                      'I accept the' : {
                      	'en_GB'	: 'I accept the',
                         'de_DE' : 'Ich akzeptiere die',
-                        'fr_FR' : 'J\'accepte le'
+                        'fr_FR' : 'J\'accepte la'
                      } ,
                      
                      
@@ -29,7 +29,7 @@ exports = module.exports = {
                      'license' : {
                      	'en_GB'	: 'Licence',
                         'de_DE' : 'Lizenz',
-                        'fr_FR' : 'Licence'
+                        'fr_FR' : 'licence'
                      } ,
                      
                      
@@ -39,7 +39,7 @@ exports = module.exports = {
                      'Install now' : {
                      	'en_GB'	: 'Install now',
                         'de_DE' : 'Jetzt installieren',
-                        'fr_FR' : 'Install now'
+                        'fr_FR' : 'Installer maintenant'
                      } 
                      
 };
