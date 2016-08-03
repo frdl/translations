@@ -20,7 +20,7 @@ exports = module.exports = {
                       'Neuen Benutzer anmelden' : {
                      	'en_GB'	: 'Register New User',
                         'de_DE' : 'Neuen Benutzer anmelden',
-                        'fr_FR' : 'Inscription Nouvel utilisateur'
+                        'fr_FR' : 'Inscription'
                      },
                      
                      
