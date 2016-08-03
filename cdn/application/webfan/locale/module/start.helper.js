@@ -25,7 +25,7 @@ exports = module.exports = {
                      'Developer' : {
                      	'en_GB'	: 'Developer',
                         'de_DE' : 'Entwickler',
-                        'fr_FR' : 'Developer'
+                        'fr_FR' : 'Développeur'
                      } ,
                      
                      
@@ -35,7 +35,7 @@ exports = module.exports = {
                      'Language' : {
                      	'en_GB'	: 'Language',
                         'de_DE' : 'Sprache',
-                        'fr_FR' : 'Language'
+                        'fr_FR' : 'Langage'
                      },
                      
                      
