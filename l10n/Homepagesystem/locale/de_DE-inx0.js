@@ -1,12 +1,14 @@
 frdl.inX.addDict({
           
            'developers' : '%s Entwickler',
-           'more' : 'mehr',
-           'Your' : 'Deine',
-           'Preview' : 'Vorschau',
-           'InstallAt' : 'Widget %1 in %2 installieren',
+           'My.Webfan WebApp for %s.' : 'My.Webfan WebApp für %s.',
+           'you may fill that later' : 'dies können Sie auch später ausfüllen',
+           'Welcome' : 'Herzlich Willkommen %s',
            'workspace' : 'Arbeitsplatz',
-           'Widget already in workspace' : 'Widget im %s bereits vorhanden',
+           'Settings' : 'Einstellungen',
+           'Einstellungen' : 'Einstellungen',
+           'Impressum' : 'Impressum',
+           'Kontakt' : 'Kontakt',
            'Gästebuch' : 'Gästebuch',
            'Statistik' : 'Statistik',
            'Inhalte' : 'Inhalte',
@@ -15,4 +17,4 @@ frdl.inX.addDict({
            'Kategorie' : 'Kategorie',
            'Inhalte erstellen' : 'Inhalte erstellen',
            'Kommentare' : 'Kommentare'
-});
+}); 	
