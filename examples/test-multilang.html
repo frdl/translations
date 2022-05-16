@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html><head><title>Frdl.js Multilanguage Test</title>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<style>
+    [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-    ng-cloak {
+        display: none !important;
+    }
+</style>
+<script>
+(async(v,w,d,h,wcsb)=>{
+ var s=d.createElement('script');
+ s.setAttribute('src', 'https://cdn.frdl.de/!bundle/run/' +h+'-'+v+'/@webfan3/frdlweb/webfan-website.js');
+ s.setAttribute('data-webfan-config-query',
+ 'DEBUG.enabled=true&website.consent.ads=false&angularjs.html5mode.rewriteLinks=false&angularjs.html5mode.enabled=false'
+// This is not required anymore as ng-show="langShortCode== statements are parsed:
+// + '&website.languages[]=en&website.languages[]=de&website.languages[]=fr&website.defaultLanguage=eo'
+);
+ s.async='defer'; 
+ s.onload=()=>{
+	  wcsb();
+ };
+ d.head.prepend(s);	 
+})('abcdef12346674674776',window, document,  (new Date()).getYear() + '-' +  (new Date()).getMonth()+ '-' +  (new Date()).getDay(),
+   async ()=>{
+ 
+});
+</script>
+</head>
+<body>
+
+<p ng-show="langIsDefault==true || langShortCode=='eo'">
+Ĉi tio estas specimena enhavo.
+</p>
+
+<p ng-show="langShortCode=='en'" ng-cloak>
+This is sample content.
+</p>
+<p ng-show="langShortCode=='de'" ng-cloak>
+Dies ist ein Beispielinhalt.
+</p>	
+<p ng-show="langShortCode=='fr'" ng-cloak>
+Ceci est un exemple de contenu.
+</p>
+
+<p>		
+  <frdl-language-selector></frdl-language-selector>
+</p>
+	
+<p>	
+<button class="btn btn-primary" ng-click="langShortCode='eo'">
+	<img src="https://cdn.frdl.de/language-icons@0.3.0/icons/eo.svg" />
+	Esperanto
+	</button>
+<button class="btn btn-primary" ng-click="langShortCode='de'">
+	<img src="https://cdn.frdl.de/language-icons@0.3.0/icons/de.svg" />Deutsch</button>
+<button class="btn btn-primary" ng-click="langShortCode='fr'">
+	<img src="https://cdn.frdl.de/language-icons@0.3.0/icons/fr.svg" />Français</button>
+<button class="btn btn-primary" ng-click="langShortCode='en'">
+	<img src="https://cdn.frdl.de/language-icons@0.3.0/icons/en.svg" />English</button>
+</p>
+	
+<p>		
+	<a href="https://registry.frdl.de/userdata_pub/tests/test-multilang.html">Test demo of this example</a> 
+	<a href="https://webfan.de/apps/sharingpath/frdl-github-2658030/public/shared/test-multilang.html?as=txt" target="_download">Download this example</a> 
+</p>
+	
+</body>
+</html>
