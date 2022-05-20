@@ -8,4 +8,4 @@ https://github.com/shortymc
 ### Changes
 + removed all deprecations
 + added [Frdlweb frdl.js OnPage Multilanguage Example](examples/test-multilang.html)
- | [Discussion](https://github.com/orgs/frdl/teams/translation-developer/discussions/1?from_comment=9#discussion-1-comment-9)
+ | [Demo](https://registry.frdl.de/userdata_pub/tests/test-multilang.html) | [Discussion](https://github.com/orgs/frdl/teams/translation-developer/discussions/1?from_comment=9#discussion-1-comment-9)
